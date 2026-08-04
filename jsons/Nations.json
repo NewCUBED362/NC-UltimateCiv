@@ -1,7 +1,8 @@
 [
   {
-    "name": "Prata",
-    "leaderName": "Andeolus Laurito",
+    "name": "Rome",
+    "leaderName": "Julius Caesar",
+    "startBias": ["Avoid [Desert]","Avoid [Tundra]"],
 
     "declaringWar": "You are weak! The glorious Prata Kingdom marches to you demise.",
     "attacked": "From the great plains to the east, to our home cities. Our people rise to oppose your conquest!",
