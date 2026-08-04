@@ -13,5 +13,18 @@
          "uniques": ["Starting tech"],
        }
     ]
+  },
+  {
+    "columnNumber": 1,
+    "era": "Ancient era",
+    "buildingCost": 55,
+    "wonderCost": 375,
+    "techs": [
+       {
+         "name": "Mining",
+         "row": 4,
+         "cost": 25,
+       }
+    ]
   }
 ]
