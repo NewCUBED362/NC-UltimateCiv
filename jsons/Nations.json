@@ -14,7 +14,9 @@
     "innerColor": [240,199,0],
     "outerColor": [70,0,118],
     "uniqueName": "Veni, Vidi, Vici",
-    "cities": ["Roma"],
+    "cities": ["Roma","Capua","Ostia","Ravenna","Neapolis","Mediolanum","Patavium","Aquileia","Puteoli","Pompeii","Catana","Burdigala",
+               "Narbo Martius","Gades","Lugdunum","Bononia","Corduba","Massilia","Colonia","Caesarea Maritima","Mogontiacum","Londinium",
+               "Caesaraugusta","Sarmizegetusa","Hispalis","Iader","Eboracum","Vindobona","Olisipo","Volubilis","Lutetia","Caralis"],
   },
   {
     "name": "Shimang",
