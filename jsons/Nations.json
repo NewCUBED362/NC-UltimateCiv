@@ -21,13 +21,13 @@
   {
     "name": "China",
     "leaderName": "Qin Shi Huang",
-		"startBias": ["Grassland"],
+	"startBias": ["Grassland"],
 
-		"declaringWar": "How dare you enrage Tian's might! I will send a great army, desecrate your ancestral shrines, eliminate your people. I swear I won't restrain them!",
-		"attacked": "Fight if you want to. Soon I will punish and kill you!",
-		"defeated": "I never would have thought... not like this.",
+	"declaringWar": "How dare you enrage Tian's might! I will send a great army, desecrate your ancestral shrines, eliminate your people. I swear I won't restrain them!",
+	"attacked": "Fight if you want to. Soon I will punish and kill you!",
+	"defeated": "I never would have thought... not like this.",
     "denounced": "So, an insect dares to offend a dragon. That was not wise."
-		"introduction": "You've come today. Is it possible that you want to view the scenery of the mountains and rivers in the State of Qin? I am the ruler of Qin.",
+	"introduction": "You've come today. Is it possible that you want to view the scenery of the mountains and rivers in the State of Qin? I am the ruler of Qin.",
 
     "innerColor": [215, 0, 0],
     "outerColor": [255, 255, 255],
