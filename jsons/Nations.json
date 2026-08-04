@@ -32,6 +32,7 @@
     "innerColor": [255,255,255],
     "outerColor": [9,112,84],
     "uniqueName": "Art of War",
-    "cities": ["Xi'an","Beijing","Taiyuan","Chengdu","Jiaodong","Changsha","Longxi","Guangzhou","Handan","Shenyang","Shanghai"],
+    "cities": ["Xi'an","Beijing","Taiyuan","Chengdu","Jiaodong","Changsha","Longxi","Guangzhou","Handan","Shenyang","Shanghai",
+	           "Wuhan","Yiyang","Xiurong","Chen","Xingzhou","Quxian","Nanjing","Langfang","Linzi","Jiujiang"],
   }
 ]
