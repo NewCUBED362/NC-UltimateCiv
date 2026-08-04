@@ -29,9 +29,9 @@
     "denounced": "So, an insect dares to offend a dragon. That was not wise."
 	"introduction": "You've come today. Is it possible that you want to view the scenery of the mountains and rivers in the State of Qin? I am the ruler of Qin.",
 
-    "innerColor": [215, 0, 0],
-    "outerColor": [255, 255, 255],
-    "uniqueName": "Ancient Builders",
+    "innerColor": [255,255,255],
+    "outerColor": [9,112,84],
+    "uniqueName": "Art of War",
     "cities": ["Xi'an"],
   }
 ]
