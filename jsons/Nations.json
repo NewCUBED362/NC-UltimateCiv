@@ -19,8 +19,8 @@
                "Caesaraugusta","Sarmizegetusa","Hispalis","Iader","Eboracum","Vindobona","Olisipo","Volubilis","Lutetia","Caralis"],
   },
   {
-    "name": "Shimang",
-    "leaderName": "Suijin",
+    "name": "China",
+    "leaderName": "Qin Shi Huang",
 
     "declaringWar": "Charge! Victory is only one glorious battle away!",
     "attacked": "You cannot declare war on me! I declared war first..!",
@@ -32,6 +32,6 @@
     "innerColor": [215, 0, 0],
     "outerColor": [255, 255, 255],
     "uniqueName": "Ancient Builders",
-    "cities": ["Shimang City","Shozu","Manchi","Yasazu","Ilisayen","Yikasiza","Guza"],
+    "cities": ["Xi'an"],
   }
 ]
