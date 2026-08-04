@@ -11,8 +11,8 @@
     "introduction": "I am Caesar, destroyer of conspiracies in the Alpine woods and the Senate alike.",
     "tradeRequest": "Our two Peoples could really use some agreement...",
 
-    "innerColor": [0, 0, 180],
-    "outerColor": [255, 255, 255],
+    "innerColor": [240,199,0],
+    "outerColor": [70,0,118],
     "uniqueName": "Veni, Vidi, Vici",
     "cities": ["Roma"],
   },
