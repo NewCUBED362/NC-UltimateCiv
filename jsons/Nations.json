@@ -39,5 +39,15 @@
 		"cities": ["Menwall","Bexmark","Brighttown","Doham","Kirsea","Anmond","Lizard","Brighburn","Jakesberg","Milley","Coalmouth",
 		           "Newingburn","Mensstone","Oakpool","Buxvern","Sudtown","Shrewwall","Bexdwell","Chatsvern","Smithsmore","Alhill",
 		           "Deadware","Sandden","Wayry","Hamplem","Blackwater","Chatton","Abworth","Tiverhampton","Prospersberg"],
+	},
+	{
+		"name": "Kirschendorf", // German
+		"leaderName": "Heidrun",
+
+		"innerColor": [249,249,249],
+		"outerColor": [0,0,180],
+		"uniqueName": "Food",
+		"uniques": ["[+1 Food] [in all cities]"],
+		"cities": ["Cloppenkirchen"],
 	}
 ]
