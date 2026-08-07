@@ -279,6 +279,8 @@
 			"Commerce": 6, // Gold + Chatiness
 			"Patronage": 7, // CityStateCompetitiveness + CSFriendly
 			"Piety": 5, // Religion Emphasis + Protection of City-States
+		    "Exploration": 5,
+            "Aesthetics": 6,
 			"Rationalism": 8, // Science Emphasis + Spaceship
 			"Freedom": 5, // Happiness Emphasis + Growth
 			"Autocracy": 9, // Boldness + Military Training Buildings Production
@@ -312,6 +314,8 @@
 			"Commerce": 8, // Gold + Chatiness
 			"Patronage": 7, // CityStateCompetitiveness + CSFriendly
 			"Piety": 6, // Religion Emphasis + Protection of City-States
+	        "Exploration": 6,
+            "Aesthetics": 4,
 			"Rationalism": 6, // Science Emphasis + Spaceship
 			"Freedom": 5, // Happiness Emphasis + Growth
 			"Autocracy": 9, // Boldness + Military Training Buildings Production
@@ -345,6 +349,8 @@
       "Commerce": 5,
       "Patronage": 5,
       "Piety": 2,
+      "Exploration": 7,
+      "Aesthetics": 7,
       "Rationalism": 9,
       "Freedom": 9,
       "Autocracy": 1,
