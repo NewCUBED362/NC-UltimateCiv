@@ -95,4 +95,36 @@
       "Order": 4
     }
   },
+  {
+    "name": "Cultural",
+    "production": 5,
+    "food": 4,
+    "gold": 5,
+    "science": 4,
+    "culture": 8,
+    "happiness": 5,
+    "faith": 4,
+    "military": 4,
+    "aggressive": 5,
+    "declareWar": 6,
+    "commerce": 4,
+    "diplomacy": 5,
+    "loyal": 5,
+    "expansion": 7,
+    "denounceWillingness": 6,
+    "priorities": {
+      "Tradition": 7,
+      "Liberty": 4,
+      "Honor": 3,
+      "Commerce": 4,
+      "Patronage": 7,
+      "Piety": 2,
+      "Exploration": 5,
+      "Aesthetics": 8,
+      "Rationalism": 4,
+      "Freedom": 6,
+      "Autocracy": 5,
+      "Order": 3
+    }
+  },
 ]
