@@ -1,4 +1,5 @@
 [
+  // Generic
   {
     "name": "Scientific",
     "production": 5,
@@ -125,6 +126,132 @@
       "Freedom": 6,
       "Autocracy": 5,
       "Order": 3
+    }
+  },
+  // UnCiv
+  {
+    "name": "Alexander",
+    "production": 5,
+    "food": 4,
+    "gold": 3,
+    "science": 6,
+    "culture": 7,
+    "happiness": 5,
+    "faith": 5,
+    "military": 5,
+    "aggressive": 8,
+    "declareWar": 6,
+    "commerce": 6,
+    "diplomacy": 3,
+    "loyal": 4,
+    "expansion": 8,
+    "denounceWillingness": 7,
+    "priorities": {
+      "Tradition": 7,
+      "Liberty": 8,
+      "Honor": 8,
+      "Commerce": 4,
+      "Patronage": 3,
+      "Piety": 6,
+      "Rationalism": 7,
+      "Freedom": 5,
+      "Autocracy": 8,
+      "Order": 5
+    },
+    "civilopediaText": [
+      {
+        "text": "Alexander the Great, born in Macedon, was one of the most skilled generals, even more by his young age, and in only 17 years he conquered all the Greek known world."
+      }
+    ]
+  },
+  {
+    "name": "Catherine",
+    "production": 6,
+    "food": 3,
+    "gold": 5,
+    "science": 8,
+    "culture": 6,
+    "happiness": 3,
+    "faith": 6,
+    "military": 5,
+    "aggressive": 4,
+    "declareWar": 4,
+    "commerce": 7,
+    "diplomacy": 7,
+    "loyal": 6,
+    "expansion": 8,
+    "denounceWillingness": 6,
+    "priorities": {
+      "Tradition": 6,
+      "Liberty": 8,
+      "Honor": 3,
+      "Commerce": 6,
+      "Patronage": 7,
+      "Piety": 8,
+      "Rationalism": 10,
+      "Freedom": 2,
+      "Autocracy": 3,
+      "Order": 6
+    }
+  },
+  {
+    "name": "Gustavus Adolphus",
+    "production": 6,
+    "food": 5,
+    "gold": 6,
+    "science": 7,
+    "culture": 5,
+    "happiness": 5,
+    "faith": 4,
+    "military": 8,
+    "aggressive": 4,
+    "declareWar": 7,
+    "commerce": 6,
+    "diplomacy": 7,
+    "loyal": 6,
+    "expansion": 4,
+    "denounceWillingness": 5,
+    "priorities": {
+      "Tradition": 5,
+      "Liberty": 4,
+      "Honor": 6,
+      "Commerce": 6,
+      "Patronage": 6,
+      "Piety": 4,
+      "Rationalism": 7,
+      "Freedom": 5,
+      "Autocracy": 6,
+      "Order": 6
+    }
+  },
+  {
+    "name": "Oda Nobunaga",
+    "production": 5,
+    "food": 5,
+    "gold": 6,
+    "science": 4,
+    "culture": 6,
+    "happiness": 5,
+    "faith": 4,
+    "military": 8,
+    "aggressive": 8,
+    "declareWar": 7,
+    "commerce": 3,
+    "diplomacy": 7,
+    "loyal": 3,
+    "expansion": 8,
+    "denounceWillingness": 7,
+    "priorities": {
+      "Tradition": 6,
+      "Liberty": 8,
+      "Honor": 9,
+      "Commerce": 5,
+      "Patronage": 6,
+      "Piety": 5,
+      "Rationalism": 5,
+      "Freedom": 5,
+      "Autocracy": 9,
+      "Order": 5
     }
   },
 ]
