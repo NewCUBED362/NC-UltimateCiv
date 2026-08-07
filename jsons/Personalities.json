@@ -443,5 +443,36 @@
 		          "Will not build [Catapult]",
 		          "Will not build [Stadium] <while the empire is happy>"],
   },
-	
+  {
+    "name": "Penguinesia_AI",
+    "production": 9,
+    "food": 9,
+    "gold": 7,
+    "science": 7,
+    "culture": 7,
+    "happiness": 8,
+    "faith": 5,
+    "military": 7,
+    "aggressive": 5,
+    "declareWar": 5,
+    "commerce": 8,
+    "diplomacy": 8,
+    "loyal": 5,
+    "expansion": 9,
+    "denounceWillingness": 5,
+    "priorities": {
+      "Tradition": 1,
+      "Liberty": 5,
+      "Honor": 3,
+      "Commerce": 0,
+      "Patronage": 0,
+      "Piety": 0,
+      "Exploration": 1,
+      "Aesthetics": 1,
+      "Rationalism": 4,
+      "Freedom": 0,
+      "Autocracy": 2,
+      "Order": 0
+    }
+  },
 ]
