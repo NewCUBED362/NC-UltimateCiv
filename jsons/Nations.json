@@ -7,6 +7,7 @@
 	{
 		"name": "Anandvana", // Indian
 		"leaderName": "Vidya",
+		"personality": "Alexander",
 
 		"innerColor": [125,236,227],
 		"outerColor": [56,0,101],
@@ -19,6 +20,7 @@
 	{
 		"name": "Lianhuahe", // Chinese
 		"leaderName": "Zheng",
+		"personality": "Alexander",
 
 		"innerColor": [0,0,160],
 		"outerColor": [249,249,249],
@@ -31,6 +33,7 @@
 	{
 		"name": "Pacificland", // American
 		"leaderName": "Prosper",
+		"personality": "Alexander",
 
 		"innerColor": [249,249,249],
 		"outerColor": [0,0,180],
@@ -43,6 +46,7 @@
 	{
 		"name": "Kirschendorf", // German
 		"leaderName": "Heidrun",
+		"personality": "Alexander",
 
 		"innerColor": [247,214,1],
 		"outerColor": [174,174,174],
