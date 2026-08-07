@@ -514,5 +514,7 @@
       "Autocracy": 1,
       "Order": 2
     }
+	  "uniques": ["Will not build [Wonders]",
+		          "Will not build [Manhattan Project]"],
   },
 ]
