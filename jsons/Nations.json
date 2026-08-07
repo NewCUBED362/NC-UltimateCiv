@@ -48,6 +48,7 @@
 		"outerColor": [0,0,180],
 		"uniqueName": "Food",
 		"uniques": ["[+1 Food] [in all cities]"],
-		"cities": ["Cloppenkirchen"],
+		"cities": ["Cloppenkirchen","Friedholz","Schwarzenkau","Allräschen","Zwingenrode","Münzensloh","Elmwagen","Harborn","Benheim",
+		           "Weilfingen","Friedschau"],
 	}
 ]
