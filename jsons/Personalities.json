@@ -517,4 +517,38 @@
 	  "uniques": ["Will not build [Wonders]",
 		          "Will not build [Manhattan Project]"],
   },
+	// Custom
+	// Random
+  {
+    "name": "Random1",
+    "production": 5,
+    "food": 5,
+    "gold": 5,
+    "science": 8,
+    "culture": 4,
+    "happiness": 4,
+    "faith": 2,
+    "military": 5,
+    "aggressive": 3,
+    "declareWar": 4,
+    "commerce": 6,
+    "diplomacy": 6,
+    "loyal": 7,
+    "expansion": 5,
+    "denounceWillingness": 6,
+    "priorities": {
+      "Tradition": 2,
+      "Liberty": 6,
+      "Honor": 2,
+      "Commerce": 4,
+      "Patronage": 4,
+      "Piety": 1,
+      "Exploration": 6,
+      "Aesthetics": 4,
+      "Rationalism": 8,
+      "Freedom": 6,
+      "Autocracy": 4,
+      "Order": 3
+    }
+  },
 ]
