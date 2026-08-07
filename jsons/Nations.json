@@ -37,6 +37,7 @@
 		"uniqueName": "Productivity",
 		"uniques": ["[+1 Production] [in all cities]"],
 		"cities": ["Menwall","Bexmark","Brighttown","Doham","Kirsea","Anmond","Lizard","Brighburn","Jakesberg","Milley","Coalmouth",
-		           "Newingburn","Mensstone"],
+		           "Newingburn","Mensstone","Oakpool","Buxvern","Sudtown","Shrewwall","Bexdwell","Chatsvern","Smithsmore","Alhill",
+		           "Deadware","Sandden"],
 	}
 ]
