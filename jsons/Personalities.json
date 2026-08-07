@@ -399,5 +399,37 @@
 	  "uniques": ["Will not build [Windmill]", "Will not build [Manhattan Project]"
 	]
   },
+  {
+    "name": "A1y0sh4",
+    "production": 10,
+    "food": 7,
+    "gold": 4,
+    "science": 9,
+    "culture": 8,
+    "happiness": 3,
+    "faith": 1,
+    "military": 8,
+    "aggressive": 7,
+    "declareWar": 7,
+    "commerce": 6,
+    "diplomacy": 6,
+    "loyal": 5,
+    "expansion": 5,
+    "denounceWillingness": 5,
+    "priorities": {
+      "Tradition": 3,
+      "Liberty": 1,
+      "Honor": 3,
+      "Commerce": 2,
+      "Patronage": 1,
+      "Piety": 1,
+      "Exploration": 1,
+      "Aesthetics": 2,
+      "Rationalism": 8,
+      "Freedom": 2,
+      "Autocracy": 3,
+      "Order": 8
+    }
+  },
 	
 ]
