@@ -61,8 +61,8 @@
 		"leaderName": "Jamal",
 		"personality": "Elector Frederick V",
 
-		"innerColor": [247,214,1],
-		"outerColor": [174,174,174],
+		"innerColor": [255,177,60],
+		"outerColor": [120,0,0],
 		"uniqueName": "Vengeful Wealth",
 		"uniques": ["[+1 Gold] [in all cities]"],
 		"cities": ["Parepasar","Baubon","Kugau","Makarang","Patro","Salarong","Pangdung","Jamgan","Makabon","Tanmawe","Mojorang",
