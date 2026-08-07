@@ -12,5 +12,14 @@
 		"outerColor": [249, 249, 249],
 		"uniqueName": "Scientific Endeavours",
 		"cities": ["Balgaria"],
+	},
+	{
+		"name": "Lianhuahe",
+		"leaderName": "Zheng",
+
+		"innerColor": [0, 0, 160],
+		"outerColor": [249, 249, 249],
+		"uniqueName": "Peace Triumph",
+		"cities": ["Xiangjing"],
 	}
 ]
