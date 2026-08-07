@@ -364,4 +364,38 @@
 			"[-50]% weight to [Mounted] for AI decisions",
 	]
   },
+	// Community Civs
+  {
+    "name": "Caballero Arepa",
+    "production": 6,
+    "food": 8,
+    "gold": 5,
+    "science": 5,
+    "culture": 10,
+    "happiness": 5,
+    "faith": 8,
+    "military": 6,
+    "aggressive": 3,
+    "declareWar": 5,
+    "commerce": 8,
+    "diplomacy": 7,
+    "loyal": 9,
+    "expansion": 8,
+    "denounceWillingness": 5,
+    "priorities": {
+      "Tradition": 1,
+      "Liberty": 4,
+      "Honor": 1,
+      "Commerce": 3,
+      "Patronage": 2,
+      "Piety": 2,
+      "Exploration": 3,
+      "Aesthetics": 3,
+      "Rationalism": 4,
+      "Freedom": 4,
+      "Autocracy": 1,
+      "Order": 3
+    }
+  },
+	
 ]
