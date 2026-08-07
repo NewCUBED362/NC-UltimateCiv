@@ -36,6 +36,7 @@
 		"outerColor": [0,0,180],
 		"uniqueName": "Productivity",
 		"uniques": ["[+1 Production] [in all cities]"],
-		"cities": ["Menwall"],
+		"cities": ["Menwall","Bexmark","Brighttown","Doham","Kirsea","Anmond","Lizard","Brighburn","Jakesberg","Milley","Coalmouth",
+		           "Newingburn","Mensstone"],
 	}
 ]
