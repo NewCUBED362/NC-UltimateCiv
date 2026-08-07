@@ -63,4 +63,36 @@
       "Order": 4
     }
   },
+  {
+    "name": "Expansionist",
+    "production": 5,
+    "food": 8,
+    "gold": 4,
+    "science": 5,
+    "culture": 6,
+    "happiness": 5,
+    "faith": 2,
+    "military": 6,
+    "aggressive": 4,
+    "declareWar": 5,
+    "commerce": 5,
+    "diplomacy": 5,
+    "loyal": 5,
+    "expansion": 8,
+    "denounceWillingness": 5,
+    "priorities": {
+      "Tradition": 4,
+      "Liberty": 4,
+      "Honor": 2,
+      "Commerce": 3,
+      "Patronage": 2,
+      "Piety": 1,
+      "Exploration": 8,
+      "Aesthetics": 6,
+      "Rationalism": 4,
+      "Freedom": 4,
+      "Autocracy": 4,
+      "Order": 4
+    }
+  },
 ]
