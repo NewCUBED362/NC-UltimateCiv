@@ -395,7 +395,9 @@
       "Freedom": 4,
       "Autocracy": 1,
       "Order": 3
-    }
+	},
+	  "uniques": ["Will not build [Windmill]", "Will not build [Manhattan Project]"
+	]
   },
 	
 ]
