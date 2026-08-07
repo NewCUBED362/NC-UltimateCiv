@@ -44,8 +44,8 @@
 		"name": "Kirschendorf", // German
 		"leaderName": "Heidrun",
 
-		"innerColor": [249,249,249],
-		"outerColor": [0,0,180],
+		"innerColor": [247,214,1],
+		"outerColor": [174,174,174],
 		"uniqueName": "Food",
 		"uniques": ["[+1 Food] [in all cities]"],
 		"cities": ["Cloppenkirchen","Friedholz","Schwarzenkau","Allräschen","Zwingenrode","Münzensloh","Elmwagen","Harborn","Benheim",
