@@ -8,8 +8,8 @@
 		"name": "Anandvana",
 		"leaderName": "Vidya",
 
-		"innerColor": [120, 0, 0],
-		"outerColor": [249, 249, 249],
+		"innerColor": [125,236,227],
+		"outerColor": [56,0,101],
 		"uniqueName": "Delicious Scientific Endeavours",
 		"uniques": ["[+1 Science] [in all cities]"],
 		"cities": ["Balgaria","Bapathar","Vandapalle","Gurudwal","Kandutari","Umarka","Periyadoi","Vissugur","Dhamlagun","Jagmia","Shishvasi",
