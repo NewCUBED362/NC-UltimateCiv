@@ -31,4 +31,36 @@
       "Order": 3
     }
   },
+  {
+    "name": "Militaristic",
+    "production": 6,
+    "food": 4,
+    "gold": 5,
+    "science": 7,
+    "culture": 5,
+    "happiness": 2,
+    "faith": 3,
+    "military": 7,
+    "aggressive": 6,
+    "declareWar": 8,
+    "commerce": 4,
+    "diplomacy": 3,
+    "loyal": 2,
+    "expansion": 6,
+    "denounceWillingness": 5,
+    "priorities": {
+      "Tradition": 5,
+      "Liberty": 3,
+      "Honor": 8,
+      "Commerce": 4,
+      "Patronage": 1,
+      "Piety": 2,
+      "Exploration": 6,
+      "Aesthetics": 5,
+      "Rationalism": 6,
+      "Freedom": 2,
+      "Autocracy": 5,
+      "Order": 4
+    }
+  },
 ]
