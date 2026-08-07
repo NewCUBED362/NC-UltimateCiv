@@ -5,7 +5,7 @@
 //		"innerColor": [255,255,255]
 	},
 	{
-		"name": "Anandvana",
+		"name": "Anandvana", // Indian
 		"leaderName": "Vidya",
 
 		"innerColor": [125,236,227],
@@ -17,15 +17,25 @@
 		           "Safigiri","Rafigiri","Nelalaj","Hazasugur","Padukur","Pavasi","Sivalagun","Padwal","Jharbag","Pukhtra"],
 	},
 	{
-		"name": "Lianhuahe",
+		"name": "Lianhuahe", // Chinese
 		"leaderName": "Zheng",
 
-		"innerColor": [0, 0, 160],
-		"outerColor": [249, 249, 249],
+		"innerColor": [0,0,160],
+		"outerColor": [249,249,249],
 		"uniqueName": "Acceptable Triumph",
 		"uniques": ["[+1 Culture] [in all cities]"],
 		"cities": ["Xiangjing","Sudong","Yueshu","Shizuimay","Qichong","Shanzihua","Zhaoshui","Danjiang","Tangrao","Dongchong","Hangchun",
 		           "Shizuixing","Mianping","Shanghai","Pinghou","Tonghar","Qushan","Tengshu","Shizuichang","Panqiu","Jiangtou","Suyuan",
 		           "Suzhou","Yuanhou","Qingliang","Xumen","Shijiang","Taizou","Qindao","Zhouzhou","Panliang"],
+	},
+	{
+		"name": "Pacificland", // American
+		"leaderName": "Prosper",
+
+		"innerColor": [249,249,249],
+		"outerColor": [0,0,180],
+		"uniqueName": "Productivity",
+		"uniques": ["[+1 Production] [in all cities]"],
+		"cities": ["Menwall"],
 	}
 ]
