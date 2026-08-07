@@ -474,5 +474,13 @@
       "Autocracy": 2,
       "Order": 0
     }
+	  "uniques": ["Will not build [Worker] <in cities without a [Monument]>",
+		          "Will not build [Granary] <in cities without a [Monument]>",
+                  "Will not build [Catapult]",
+		          "Will not build [Stadium] <while the empire is happy>",
+		          "Will not build [Military Base]",
+		          "Will not build [Seaport]",
+		          "Will not build [Pentagon]",
+		          "Will not build [Ironclad]"],
   },
 ]
