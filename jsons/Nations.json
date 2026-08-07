@@ -55,5 +55,18 @@
 		"cities": ["Cloppenkirchen","Friedholz","Schwarzenkau","Allräschen","Zwingenrode","Münzensloh","Elmwagen","Harborn","Benheim",
 		           "Weilfingen","Friedschau","Enneroda","Eschenhude","Dillenräschen","Sachsenborn","Weissenstedt","Eschenstedt",
 		           "Blankenthal","Dietenheim","Vöcklahaus","Blankenlohn","Stralsten","Friedmold","Tangerlein","Mautal"],
+	},
+	{
+		"name": "Alamjepara", // Indonesian 
+		"leaderName": "Jamal",
+		"personality": "Elector Frederick V",
+
+		"innerColor": [247,214,1],
+		"outerColor": [174,174,174],
+		"uniqueName": "Vengeful Wealth",
+		"uniques": ["[+1 Gold] [in all cities]"],
+		"cities": ["Parepasar","Baubon","Kugau","Makarang","Patro","Salarong","Pangdung","Jamgan","Makabon","Tanmawe","Mojorang",
+	           "Pama","Malu","Pemapok","Tikulu","Salatiga","Binman","Jamkasi","Suraraya","Dudari","Singlaboh","Semapura",
+	           "Manotro","Sibolbua","Horonmai","Matatu","Gomulih","Langbau","Palanglinggo","Semabau"],
 	}
 ]
