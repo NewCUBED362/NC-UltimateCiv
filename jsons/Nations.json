@@ -46,7 +46,7 @@
 
 		"innerColor": [247,214,1],
 		"outerColor": [174,174,174],
-		"uniqueName": "Food",
+		"uniqueName": "Vengeful Food",
 		"uniques": ["[+1 Food] [in all cities]"],
 		"cities": ["Cloppenkirchen","Friedholz","Schwarzenkau","Allräschen","Zwingenrode","Münzensloh","Elmwagen","Harborn","Benheim",
 		           "Weilfingen","Friedschau","Enneroda","Eschenhude","Dillenräschen","Sachsenborn","Weissenstedt","Eschenstedt",
