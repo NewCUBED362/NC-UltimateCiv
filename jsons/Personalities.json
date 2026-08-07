@@ -396,7 +396,8 @@
       "Autocracy": 1,
       "Order": 3
 	},
-	  "uniques": ["Will not build [Windmill]", "Will not build [Manhattan Project]"
+	  "uniques": ["Will not build [Windmill]",
+		          "Will not build [Manhattan Project]"
 	]
   },
   {
@@ -430,6 +431,17 @@
       "Autocracy": 3,
       "Order": 8
     }
+	  "uniques": ["Will not build [Worker] <in cities without a [Monument]>",
+		          "Will not build [Granary] <in cities without a [Monument]>",
+		          "Will not build [Shrine]",
+	              "Will not build [Temple]",
+		          "Will not build [The Pyramids]",
+		          "Will not build [Mausoleum of Halicarnassus]",
+		          "Will not build [Petra]",
+	              "Will not build [Hagia Sophia]",
+		          "Will not build [Great Mosque of Djenne]",
+		          "Will not build [Catapult]",
+		          "Will not build [Stadium] <while the empire is happy>"],
   },
 	
 ]
