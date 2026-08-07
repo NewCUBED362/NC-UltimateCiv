@@ -11,7 +11,8 @@
 		"innerColor": [120, 0, 0],
 		"outerColor": [249, 249, 249],
 		"uniqueName": "Scientific Endeavours",
-		"cities": ["Balgaria","Bapathar","Vandapalle","Gurudwal","Kandutari","Umarka","Periyadoi","Vissugur","Dhamlagun","Jagmia","Shishvasi"],
+		"cities": ["Balgaria","Bapathar","Vandapalle","Gurudwal","Kandutari","Umarka","Periyadoi","Vissugur","Dhamlagun","Jagmia","Shishvasi",
+		           "Hanwani","Musadukur","Fazilkulam","Fazilpura","Hanjogai","Periyasugur","Nelapathar","Karimwani","Rajaltra","Malkangam"],
 	},
 	{
 		"name": "Lianhuahe",
