@@ -78,8 +78,8 @@
 		"leaderName": "Seema",
 		"personality": "Robert Blum",
 
-		"innerColor": [125,236,227],
-		"outerColor": [56,0,101],
+		"innerColor": [21,108,49],
+		"outerColor": [249,249,249],
 		"uniqueName": "Snobish Science",
 		"uniques": ["[+1 Science] [in all cities]"],
 		"cities": ["Risalgram","Narotung","Jambela","Turbat","Nushda","Khairgora","Turgara","Charan","Mansehra","Bhalman","Qamsehra",
