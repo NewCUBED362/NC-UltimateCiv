@@ -80,10 +80,10 @@
 
 		"innerColor": [125,236,227],
 		"outerColor": [56,0,101],
-		"uniqueName": "Science",
+		"uniqueName": "Snobish Science",
 		"uniques": ["[+1 Science] [in all cities]"],
 		"cities": ["Risalgram","Narotung","Jambela","Turbat","Nushda","Khairgora","Turgara","Charan","Mansehra","Bhalman","Qamsehra",
-		           "Chakki","Kalagora","Khagarh","Razsehra","Khuzkana","Timergai","Kalada","Battasehra","Latamgara","Dilangir",
+		           "Chakki","Kalagora","Khagarh","Razsehra","Khuzkana","Timergai","Kalada","Battasehra","Latamgara","Dilangi",
 		           "Skarman","Chaktung","Mahidmiri","Shakarzabad","Qaimmak","Sakwani","Qamrand","Shakarrand","Nardhargat"],
 	}
 ]
