@@ -72,5 +72,16 @@
 		"cities": ["Parepasar","Baubon","Kugau","Makarang","Patro","Salarong","Pangdung","Jamgan","Makabon","Tanmawe","Mojorang",
 	           "Pama","Malu","Pemapok","Tikulu","Salatiga","Binman","Jamkasi","Suraraya","Dudari","Singlaboh","Semapura",
 	           "Manotro","Sibolbua","Horonmai","Matatu","Gomulih","Langbau","Palanglinggo","Semabau"],
+	},
+	{
+		"name": "Huzrak", // Pakistani
+		"leaderName": "Seema",
+		"personality": "Economic",
+
+		"innerColor": [125,236,227],
+		"outerColor": [56,0,101],
+		"uniqueName": "Science",
+		"uniques": ["[+1 Science] [in all cities]"],
+		"cities": ["Risalgram"],
 	}
 ]
