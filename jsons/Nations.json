@@ -83,6 +83,7 @@
 		"uniqueName": "Science",
 		"uniques": ["[+1 Science] [in all cities]"],
 		"cities": ["Risalgram","Narotung","Jambela","Turbat","Nushda","Khairgora","Turgara","Charan","Mansehra","Bhalman","Qamsehra",
-		           "Chakki","Kalagora","Khagarh","Razsehra","Khuzkana","Timergai","Kalada","Battasehra","Latamgara"],
+		           "Chakki","Kalagora","Khagarh","Razsehra","Khuzkana","Timergai","Kalada","Battasehra","Latamgara","Dilangir",
+		           "Skarman","Chaktung","Mahidmiri","Shakarzabad","Qaimmak","Sakwani","Qamrand","Shakarrand","Nardhargat"],
 	}
 ]
